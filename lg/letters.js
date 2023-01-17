@@ -31,7 +31,7 @@ module.exports = [
   'n',
   'a',
   'n',
-  'o',
+  'a',
   'v',
   'ö',
   'r',
